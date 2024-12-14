@@ -4,9 +4,9 @@
   "description": "",
   "private": true,
   "dependencies": {
-    "autolinker": "0.22.0",
-    "flux": "2.1.1",
-    "highlight.js": "8.9.1",
+    "autolinker": "3.16.1",
+    "flux": "4.0.1",
+    "highlight.js": "10.4.1",
     "keymirror": "0.1.1",
     "object-assign": "4.0.1",
     "twemoji": "1.4.1"
